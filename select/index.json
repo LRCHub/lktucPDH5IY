@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "two years",
+  "base_artist": "ROSÉ",
+  "createdAt": "2026-02-06T09:01:35.227211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Took You Two Years to Win My Heart",
+      "artist": "Final Fantasy",
+      "has_synced": true,
+      "path": "select/01_Took_You_Two_Years_to_Win_My_Heart_Final_Fantasy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Two Years of Torture",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/02_Two_Years_of_Torture_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Two Years",
+      "artist": "Chew Lips",
+      "has_synced": false,
+      "path": "select/03_Two_Years_Chew_Lips.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chicago Is So Two Years Ago",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/04_Chicago_Is_So_Two_Years_Ago_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chicago is so Two Years Ago",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/05_Chicago_is_so_Two_Years_Ago_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Two Years",
+      "artist": "Wage War",
+      "has_synced": true,
+      "path": "select/06_Two_Years_Wage_War.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Two Years of Torture - 2016 Mono Remaster",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/07_Two_Years_of_Torture_-_2016_Mono_Remaster_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Two Years This Month",
+      "artist": "The Good Life",
+      "has_synced": true,
+      "path": "select/08_Two_Years_This_Month_The_Good_Life.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Two Years After",
+      "artist": "RA MU",
+      "has_synced": true,
+      "path": "select/09_Two_Years_After_RA_MU.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Two Years After",
+      "artist": "ラ・ムー",
+      "has_synced": true,
+      "path": "select/10_Two_Years_After_ラ・ムー.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Two Years",
+      "artist": "Have Mercy",
+      "has_synced": true,
+      "path": "select/11_Two_Years_Have_Mercy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Two Years (Acoustic)",
+      "artist": "Have Mercy",
+      "has_synced": true,
+      "path": "select/12_Two_Years_(Acoustic)_Have_Mercy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chicago is so Two Years Ago",
+      "artist": "State Champs",
+      "has_synced": true,
+      "path": "select/13_Chicago_is_so_Two_Years_Ago_State_Champs.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chicago is so Two Years Ago",
+      "artist": "State Champs",
+      "has_synced": false,
+      "path": "select/14_Chicago_is_so_Two_Years_Ago_State_Champs.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Two Years",
+      "artist": "Maple Glider",
+      "has_synced": true,
+      "path": "select/15_Two_Years_Maple_Glider.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "two years",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/pl_01_two_years_ROSÉ.txt"
+    }
+  ]
+}
