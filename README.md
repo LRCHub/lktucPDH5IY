@@ -1,0 +1,69 @@
+# ROSÉ – two years
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+How'd it all fall apart?
+You were right here before,
+in my arms
+Now you're invisible
+But the heartbreak's physical
+Got a place, moved away
+Somewhere with a different code,
+Different state
+Still feels miserable
+God, it's so chemical
+All that I know
+Is I can't let you go
+It's been two years
+And you're still not gone
+Doesn't make sense that
+I can't move on
+Yeah, I try, I try, I try, I try
+But this love never dies
+Two years
+Since you've been in my bеd
+Even had a funeral for
+you in my head
+Yeah, I try, I try, I try, I try
+But this love never dies
+Another night, another vice
+Even try with someone new,
+someone nice
+I'll always hate
+the fact that you
+Ruined everybody after you
+I'm always coming back to you
+It's been two years
+And you're still not gone
+Doesn't make sense that
+I can't move on
+Yeah, I try, I try, I try, I try
+But this love never dies
+It's been two years
+Since you've been in my bed
+Even had a funeral
+for you in my head
+Yeah, I try, I try, I try, I try
+But this love never dies
+Ooh-ooh, ooh-ooh, ooh-ooh
+And I'm never gonna
+let you go, go
+Ooh-ooh, ooh-ooh, ooh-ooh
+Maybe I'm just sick
+And this is how it's gonna be
+Maybe this is all I know
+And I know it's not you, it's me
+'Cause it's been two years
+And you're still not gone
+Doesn't make sense that
+I can't move on
+Yeah, I try, I try, I try, I try
+But this love never dies
+It's been two years
+Since you've been in my bed
+Even had a funeral
+for you in my head
+Yeah, I try, I try, I try, I try
+But this love never dies
+```
